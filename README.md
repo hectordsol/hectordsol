@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### ¡¡Hola!! 👋 Soy Hector Dario Sol, hago instalación y mantenimiento de red para un ISP en el oeste de La Pampa. Mientras realizo proyectos web de práctica usando HTML, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL.
+### He sido parte además de un proyecto grupal en las cuales he aprendido a implementar pasarela de pagos de Mercado Pago, carritos de compras, cloudinary, login con firebase, trabajando en equipo.
+### Estoy buscando colaborar en nuevos proyectos de desarrollo, y creo estar preparado para nuevos desafíos, 
 <!--
 **hectordsol/hectordsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
