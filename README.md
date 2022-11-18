@@ -1,4 +1,4 @@
-<img src="https://github.com/hectordsol/hectordsol/img/imagen.png" style="max-width: 100%;">
+<img src="./imagen/banner.png" style="max-width: 100%;">
 ### ¡¡Hola!! 👋 Soy Hector Dario Sol un full stack developer from Argentina. Trabajo haciendo instalación y mantenimiento de red para un ISP en el oeste de La Pampa. Mientras realizo proyectos web de práctica usando HTML, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL.
 <hr>
 ### 🔭 He sido parte además de un proyecto grupal en las cuales he aprendido a implementar pasarela de pagos de Mercado Pago, carritos de compras, cloudinary, login con firebase, trabajando en equipo. [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
