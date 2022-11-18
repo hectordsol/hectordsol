@@ -1,23 +1,7 @@
-### ¡¡Hola!! 👋 Soy Hector Dario Sol, hago instalación y mantenimiento de red para un ISP en el oeste de La Pampa. Mientras realizo proyectos web de práctica usando HTML, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL.
-<h3 align="center">A full stack developer from Argentina</h3>
-### He sido parte además de un proyecto grupal en las cuales he aprendido a implementar pasarela de pagos de Mercado Pago, carritos de compras, cloudinary, login con firebase, trabajando en equipo.
+### ¡¡Hola!! 👋 Soy Hector Dario Sol un full stack developer from Argentina. Trabajo haciendo instalación y mantenimiento de red para un ISP en el oeste de La Pampa. Mientras realizo proyectos web de práctica usando HTML, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL.
+ 
+### 🔭 He sido parte además de un proyecto grupal en las cuales he aprendido a implementar pasarela de pagos de Mercado Pago, carritos de compras, cloudinary, login con firebase, trabajando en equipo. [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
 ### Estoy buscando colaborar en nuevos proyectos de desarrollo, y creo estar preparado para nuevos desafíos, 
-<!--
-**hectordsol/hectordsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I’m currently working on [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
