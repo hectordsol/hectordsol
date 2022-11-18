@@ -4,7 +4,8 @@
 ### Estoy buscando colaborar en nuevos proyectos de desarrollo, y creo estar preparado para nuevos desafíos, 
 
 
-
+<hr>
+<hr>
 <h3 align="left">Skills:</h3>
 <p align="left"> 
 
