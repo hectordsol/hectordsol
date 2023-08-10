@@ -1,7 +1,7 @@
 <img src="./imagen/banner.png" style="max-width: 100%;">
-##¡¡Hola!! 👋 Soy Hector Dario Sol, Full Stack Developer de Argentina. Trabajo haciendo instalación y mantenimiento de red para un ISP en el oeste de La Pampa, mientras realizo proyectos web de práctica usando HTML, CSS, JavaScript, React, Redux, Node.js, Express, PostgreSQL.
+##¡¡Hola!! 👋 Soy Hector Dario Sol, Full Stack Developer de Argentina. Trabajo como instalador y hago mantenimiento de red para un ISP en el oeste de La Pampa, mientras realizo proyectos web de práctica usando HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, Google Cloud, PostgreSQL.
 <hr>
-🔭 He sido parte además de un proyecto grupal en las cuales he aprendido a implementar pasarela de pagos de Mercado Pago, carritos de compras, cloudinary, login con firebase, trabajando en equipo. [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
+🔭 He sido parte además de un proyecto grupal en las cuales he aprendido a implementar pasarela de pagos de Mercado Pago, carritos de compras, cloudinary, login, trabajando en equipo. [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
 <hr>
 Estoy buscando colaborar en nuevos proyectos de desarrollo, y creo estar preparado para nuevos desafíos, 
 <hr>
@@ -12,7 +12,8 @@ Estoy buscando colaborar en nuevos proyectos de desarrollo, y creo estar prepara
  
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 
-<a href="https://sequelize.org/" target="_blank" rel="sequelize"> <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/> <a href="https://www.postgresql.org" target="_blank" rel="postgresql"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="express js"> <img src="https://user-images.githubusercontent.com/95602009/202618167-b4aa87e0-b73f-410e-8b0f-ccb46aab510a.png" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="node js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://sequelize.org/" target="_blank" rel="sequelize"> <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/> <a href="https://www.postgresql.org" target="_blank" rel="postgresql"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="express js"> <img src="https://user-images.githubusercontent.com/95602009/202618167-b4aa87e0-b73f-410e-8b0f-ccb46aab510a.png" alt="express" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="node js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="mongodbatlas"> <img src="https://www.mongodb.com/assets/images/global/favicon.ico" alt="mongodb" width="40" height="40"/> 
+
 
 <a href="https://www.arduino.cc/" target="_blank" rel="arduino"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
 </p>
