@@ -1,5 +1,5 @@
 <img src="./imagen/banner.png" style="max-width: 100%;">
-##¡¡Hola!! 👋 Soy Hector Dario Sol, Full Stack Developer de Argentina. Trabajo como instalador y hago mantenimiento de red para un ISP en el oeste de La Pampa, mientras realizo proyectos web de práctica usando HTML, CSS, JavaScript, React, Redux, Node.js, Express, MongoDB, Google Cloud, PostgreSQL.
+##¡¡Hola!! 👋 Soy Hector Dario Sol, Full Stack Developer de Argentina. Trabajo como instalador y hago mantenimiento de red para un ISP en el oeste de La Pampa, mientras realizo proyectos web de práctica usando React, Redux, Node.js, Express, Python Fastapi, MongoDB, PostgreSQL, Docker Compose, Google Cloud, AWS.
 <hr>
 🔭 He sido parte además de un proyecto grupal en las cuales he aprendido a implementar pasarela de pagos de Mercado Pago, carritos de compras, cloudinary, login, trabajando en equipo. [Reparo.io](https://reparoio-git-develop-joel301.vercel.app/)
 <hr>
